@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td><img src="https://github.com/pangcrd/DHT22-ESP3224032028R/blob/main/images/img1.jpg" alt="Image 1" width="500"/></td>
-    <td><img src="https://github.com/pangcrd/DHT22-ESP3224032028R/blob/main/images/gif.gif" alt="Image 2" width="300"/></td>
+    <td><img src="https://github.com/pangcrd/DHT22-ESP3224032028R/blob/main/images/gif.gif" alt="Image 2" width="400"/></td>
   </tr>
 </table>
 ---
